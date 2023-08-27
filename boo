@@ -1,4 +1,5 @@
 way
 money 
 plenty 
-good health 
+good health
+doings 
